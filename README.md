@@ -7,6 +7,7 @@ Based on https://book.hacktricks.xyz/network-services-pentesting/pentesting-264-
 ```
 git clone https://github.com/srand2/CheckPoint-Firewall-Enum.git
 cd CheckPoint-Firewall-Enum && chmod +x Checkpoint-Firewall-Enum.sh
+
  ./checkpoint-firewall-enum.sh ips.txt
 ```
 

@@ -2,7 +2,7 @@
 
 # Check if the required arguments are provided
 if [ $# -eq 0 ]; then
-    echo "Usage: ./checkpoint-friewall-enum.sh <ip_list_file>"
+    echo "Usage: ./checkpoint-firewall-enum.sh <ip_list_file>"
     exit 1
 fi
 

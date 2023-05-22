@@ -31,8 +31,7 @@ asn -s < mapcidr-urls.txt
 └ POR  264
 ```
 
-**in my specific case there were many open 264 ports which leads me to this
-**
+**In my specific case there were many open 264 ports which leads me to this**
 ```
 ./checkpoint-firewall-enum.sh ips.txt
 ```
